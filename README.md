@@ -1,2 +1,2 @@
-# c-intermediate_programs
+# c++ array intermediate_programs
 c++ array programs
